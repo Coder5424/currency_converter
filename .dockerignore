@@ -1,0 +1,15 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+currency_conv/__pycache__/
+currency_conv/*/__pycache__/
+currency_conv/*/*/__pycache__/
+currency_conv/*/*/*/__pycache__/
+.env/
+.venv/
+venv/
